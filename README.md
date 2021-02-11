@@ -2,9 +2,9 @@
 
 ## Content
 This repo contains: 
-- Two pre-trained models - one is customly trained by AIN for image recognition,
-other is ResNet SSD model for face detection
-- The training script
+- Two pre-trained models - one is customly trained by AIN for mask recognition,
+other is ResNet SSD model for Face detection
+- The original training script
 - Link to original dataset (rar file ~300MB): [IPFS link](https://gateway.pinata.cloud/ipfs/QmapjkJto9GdGqTg3t7QyNUMiG24st2Er3RXksPyDr1hzj)
 - Two scripts to detect mask on images and live camera stream
 - Example images and results
